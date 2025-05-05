@@ -1,0 +1,666 @@
+[
+  {
+    "key": "e-VI-3",
+    "value": "{\"id\":\"e-VI-3\",\"section\":\"VI\",\"text\":\"When you use appearances in harmony with nature, then be elated, for you are elated by some good of your own.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XXIV-3",
+    "value": "{\"id\":\"e-XXIV-3\",\"section\":\"XXIV\",\"text\":\"You will be 'somebody' where it counts: in things within your power, where you can be of great consequence.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-LII-3",
+    "value": "{\"id\":\"e-LII-3\",\"section\":\"LII\",\"text\":\"O Crito, if it thus pleases the gods, thus let it be.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XXXV-1",
+    "value": "{\"id\":\"e-XXXV-1\",\"section\":\"XXXV\",\"text\":\"When you judge an action right, never shrink from being seen doing it, even if misunderstood.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XXXIII-11",
+    "value": "{\"id\":\"e-XXXIII-11\",\"section\":\"XXXIII\",\"text\":\"Avoid trying to incite laughter; it easily slides into vulgarity and lowers others' esteem.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-L-5",
+    "value": "{\"id\":\"e-L-5\",\"section\":\"L\",\"text\":\"This instant, deem yourself worthy of living as a proficient adult. Let the apparent best be your inviolable law.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XLVIII-2",
+    "value": "{\"id\":\"e-XLVIII-2\",\"section\":\"XLVIII\",\"text\":\"Marks of a proficient: censures none, praises none, blames none, accuses none; speaks little of self.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XIV-1",
+    "value": "{\"id\":\"e-XIV-1\",\"section\":\"XIV\",\"text\":\"Wishing for friends or family to live forever is foolish; it's wishing to control what isn't yours.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XXXII-2",
+    "value": "{\"id\":\"e-XXXII-2\",\"section\":\"XXXII\",\"text\":\"Bring neither desire nor aversion to the diviner. Understand every external event is indifferent, nothing to you.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XVIII-2",
+    "value": "{\"id\":\"e-XVIII-2\",\"section\":\"XVIII\",\"text\":\"Whatever happens, it is within my power to draw advantage from it.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XX-2",
+    "value": "{\"id\":\"e-XX-2\",\"section\":\"XX\",\"text\":\"When provoked, know that it's your own opinion provoking you.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XXXIII-9",
+    "value": "{\"id\":\"e-XXXIII-9\",\"section\":\"XXXIII\",\"text\":\"When meeting superiors, imagine how Socrates or Zeno would act; you won't lack appropriate conduct.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-L-3",
+    "value": "{\"id\":\"e-L-3\",\"section\":\"L\",\"text\":\"You've received the principles. What other master do you await to excuse delaying self-reformation?\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XLVIII-5",
+    "value": "{\"id\":\"e-XLVIII-5\",\"section\":\"XLVIII\",\"text\":\"In short, the proficient watches himself as an enemy in ambush.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-I-8",
+    "value": "{\"id\":\"e-I-8\",\"section\":\"I\",\"text\":\"Examine appearances: do they concern things in your power or not? If not, be ready to say: 'This is nothing to me.'\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XXXIV-3",
+    "value": "{\"id\":\"e-XXXIV-3\",\"section\":\"XXXIV\",\"text\":\"Even if timely, beware pleasure's allure. Oppose it with the knowledge of how much better gaining this victory is.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-III-2",
+    "value": "{\"id\":\"e-III-2\",\"section\":\"III\",\"text\":\"If you embrace your child or wife, remember you embrace a mortal; their death becomes bearable.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-VIII-1",
+    "value": "{\"id\":\"e-VIII-1\",\"section\":\"VIII\",\"text\":\"Demand not that events happen as you wish, but wish them to happen as they do, and you will go on well.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XXIX-6",
+    "value": "{\"id\":\"e-XXIX-6\",\"section\":\"XXIX\",\"text\":\"If you're willing to trade externals for serenity, freedom, and tranquillity, then approach philosophy. If not, stay away.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XII-3",
+    "value": "{\"id\":\"e-XII-3\",\"section\":\"XII\",\"text\":\"When calling your servant, consider they might not come or do as asked. Don't grant them power over your peace.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XLVII-1",
+    "value": "{\"id\":\"e-XLVII-1\",\"section\":\"XLVII\",\"text\":\"Learned frugal living? Don't boast. Drink only water? Don't announce it constantly.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XLIV-1",
+    "value": "{\"id\":\"e-XLIV-1\",\"section\":\"XLIV\",\"text\":\"Reasoning like 'I am richer, thus superior' is flawed. The connection is 'I am richer, thus my possessions exceed yours.'\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-V-4",
+    "value": "{\"id\":\"e-V-4\",\"section\":\"V\",\"text\":\"The uninstructed blames others; the beginner blames himself; the proficient blames neither others nor himself.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XLVIII-4",
+    "value": "{\"id\":\"e-XLVIII-4\",\"section\":\"XLVIII\",\"text\":\"Restrains desire; directs aversion only to things thwarting the will; uses moderate energy; appears simple.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XXVII-1",
+    "value": "{\"id\":\"e-XXVII-1\",\"section\":\"XXVII\",\"text\":\"Just as a target isn't set up to be missed, the nature of evil does not exist purposefully in the world.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XXX-2",
+    "value": "{\"id\":\"e-XXX-2\",\"section\":\"XXX\",\"text\":\"Is your father bad? Your natural tie isn't to a *good* father, but to *a* father. Maintain your role.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XXXIII-5",
+    "value": "{\"id\":\"e-XXXIII-5\",\"section\":\"XXXIII\",\"text\":\"Avoid taking oaths if possible.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XXXVI-1",
+    "value": "{\"id\":\"e-XXXVI-1\",\"section\":\"XXXVI\",\"text\":\"Choosing the largest share suits appetite but violates the social spirit of a meal.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XXXII-3",
+    "value": "{\"id\":\"e-XXXII-3\",\"section\":\"XXXII\",\"text\":\"It will always be in your power to make good use of whatever happens.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XLVI-1",
+    "value": "{\"id\":\"e-XLVI-1\",\"section\":\"XLVI\",\"text\":\"Never call yourself a philosopher or talk principles among the ignorant. Show principles by actions.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XIII-3",
+    "value": "{\"id\":\"e-XIII-3\",\"section\":\"XIII\",\"text\":\"It's hard to keep your will aligned with nature and secure externals simultaneously. Focusing on one means neglecting the other.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XXX-4",
+    "value": "{\"id\":\"e-XXX-4\",\"section\":\"XXX\",\"text\":\"Another cannot hurt you unless you consent. You are hurt when you believe you are hurt.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XIII-2",
+    "value": "{\"id\":\"e-XIII-2\",\"section\":\"XIII\",\"text\":\"Don't desire to seem knowledgeable. If others see you as important, distrust yourself.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XXIX-7",
+    "value": "{\"id\":\"e-XXIX-7\",\"section\":\"XXIX\",\"text\":\"You must be one person, either good or bad. Cultivate your reason or externals. Be a philosopher or one of the mob.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XXIX-4",
+    "value": "{\"id\":\"e-XXIX-4\",\"section\":\"XXIX\",\"text\":\"You haven't entered anything thoughtfully, surveyed it fully, but only carelessly, with half-hearted zeal.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-L-6",
+    "value": "{\"id\":\"e-L-6\",\"section\":\"L\",\"text\":\"Face pain, pleasure, glory, disgrace: remember, now is the contest, the Olympics are here, it cannot be delayed.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XLVIII-1",
+    "value": "{\"id\":\"e-XLVIII-1\",\"section\":\"XLVIII\",\"text\":\"A vulgar person looks for help or harm from externals. A philosopher looks to himself for all help or harm.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XVII-2",
+    "value": "{\"id\":\"e-XVII-2\",\"section\":\"XVII\",\"text\":\"Your business is to act well the given part; choosing the part belongs to another.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XX-3",
+    "value": "{\"id\":\"e-XX-3\",\"section\":\"XX\",\"text\":\"Try first not to be carried away by appearances. Gain time and respite, and you will more easily command yourself.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XIX-4",
+    "value": "{\"id\":\"e-XIX-4\",\"section\":\"XIX\",\"text\":\"Don't desire status, but freedom. The only way is to disregard things not in our power.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XXXIII-7",
+    "value": "{\"id\":\"e-XXXIII-7\",\"section\":\"XXXIII\",\"text\":\"Provide for the body's needs only: food, drink, clothing, shelter, basic staff. Cut off show and luxury.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XXIV-4",
+    "value": "{\"id\":\"e-XXIV-4\",\"section\":\"XXIV\",\"text\":\"Can you give friends money or citizenship? These aren't within your power. Who can give what they don't have?\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-LII-4",
+    "value": "{\"id\":\"e-LII-4\",\"section\":\"LII\",\"text\":\"Anytus and Melitus may kill me indeed; but hurt me they cannot.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XLII-2",
+    "value": "{\"id\":\"e-XLII-2\",\"section\":\"XLII\",\"text\":\"They follow what appears right to them, not to you. If their judgment is false, they are the ones hurt and deceived.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XXXII-1",
+    "value": "{\"id\":\"e-XXXII-1\",\"section\":\"XXXII\",\"text\":\"Approaching divination, remember the event's outcome is unknown, but its nature (if external) is neither good nor evil.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XXXIX-2",
+    "value": "{\"id\":\"e-XXXIX-2\",\"section\":\"XXXIX\",\"text\":\"Exceed the measure (like gilding a shoe), and you head down a precipice where there is no bound.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XLVI-4",
+    "value": "{\"id\":\"e-XLVI-4\",\"section\":\"XLVI\",\"text\":\"If told you know nothing, and you aren't bothered, then you have begun your work.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XLIV-2",
+    "value": "{\"id\":\"e-XLIV-2\",\"section\":\"XLIV\",\"text\":\"You, after all, consist neither in property nor in style.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XXXI-2",
+    "value": "{\"id\":\"e-XXXI-2\",\"section\":\"XXXI\",\"text\":\"Resolve to obey the gods, yield to them, follow willingly all events, ruled by perfect wisdom.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XXXIV-2",
+    "value": "{\"id\":\"e-XXXIV-2\",\"section\":\"XXXIV\",\"text\":\"Contrast potential regret with the joy and self-applause of abstaining from the tempting pleasure.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-IX-3",
+    "value": "{\"id\":\"e-IX-3\",\"section\":\"IX\",\"text\":\"You will find external events impede something else, but not truly yourself.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-VII-2",
+    "value": "{\"id\":\"e-VII-2\",\"section\":\"VII\",\"text\":\"If wife or child are granted, fine; but if the captain calls (duty/fate), run to the ship, leave them, look not behind.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-L-2",
+    "value": "{\"id\":\"e-L-2\",\"section\":\"L\",\"text\":\"How long will you delay demanding the best of yourself and following reason's judgments?\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XXIII-1",
+    "value": "{\"id\":\"e-XXIII-1\",\"section\":\"XXIII\",\"text\":\"If you turn attention to externals to please someone, know you have ruined your life's plan.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-LI-3",
+    "value": "{\"id\":\"e-LI-3\",\"section\":\"LI\",\"text\":\"Thus, while lying, we readily show how it's demonstrated that lying is wrong.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-X-3",
+    "value": "{\"id\":\"e-X-3\",\"section\":\"X\",\"text\":\"Cultivate this habit, and appearances will not overwhelm you.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-L-1",
+    "value": "{\"id\":\"e-L-1\",\"section\":\"L\",\"text\":\"Abide by your adopted rules as laws, transgression of which is impiety. Ignore what others say; it's not your concern.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-LI-2",
+    "value": "{\"id\":\"e-LI-2\",\"section\":\"LI\",\"text\":\"Third: logic validating the demonstration. We focus on third, neglect the first, most vital part.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XII-2",
+    "value": "{\"id\":\"e-XII-2\",\"section\":\"XII\",\"text\":\"Begin with little things. Oil spilled? Wine stolen? Say: 'This is the price of peace; nothing comes for free.'\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XVI-1",
+    "value": "{\"id\":\"e-XVI-1\",\"section\":\"XVI\",\"text\":\"If someone weeps for loss, don't be overcome by the appearance of evil. Remember the hurt comes from their view, not the event.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-I-4",
+    "value": "{\"id\":\"e-I-4\",\"section\":\"I\",\"text\":\"Things in our power are naturally free; things beyond our power are weak, dependent, restricted.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XIV-3",
+    "value": "{\"id\":\"e-XIV-3\",\"section\":\"XIV\",\"text\":\"If you wish not to be disappointed in your desires, exercise control over what is in your power.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-LI-1",
+    "value": "{\"id\":\"e-LI-1\",\"section\":\"LI\",\"text\":\"Most necessary in philosophy: applying principles (e.g., Don't lie). Second: demonstrating why (e.g., Why not lie).\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-II-4",
+    "value": "{\"id\":\"e-II-4\",\"section\":\"II\",\"text\":\"Remove aversion from all things not in our power; apply it only to undesirable things within our power.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XXVIII-1",
+    "value": "{\"id\":\"e-XXVIII-1\",\"section\":\"XXVIII\",\"text\":\"You'd be angry if someone handed your body to a passerby. Why feel no shame handing your mind to any reviler?\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-V-3",
+    "value": "{\"id\":\"e-V-3\",\"section\":\"V\",\"text\":\"When hindered, disturbed, or grieved, never blame others, only ourselves—that is, our own judgments.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XI-2",
+    "value": "{\"id\":\"e-XI-2\",\"section\":\"XI\",\"text\":\"If a 'bad man' takes your property, what concern is it of yours through whom the Giver asks it back?\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XXIX-2",
+    "value": "{\"id\":\"e-XXIX-2\",\"section\":\"XXIX\",\"text\":\"Want to win at the Olympics? Consider the rules, diet, training, potential injuries, and possible defeat first.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XLVI-5",
+    "value": "{\"id\":\"e-XLVI-5\",\"section\":\"XLVI\",\"text\":\"Sheep show nourishment by producing wool and milk outwardly. Show your principles through resultant actions.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XXI-2",
+    "value": "{\"id\":\"e-XXI-2\",\"section\":\"XXI\",\"text\":\"Contemplating mortality prevents abject thoughts and excessive desire.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XVIII-1",
+    "value": "{\"id\":\"e-XVIII-1\",\"section\":\"XVIII\",\"text\":\"If an unlucky omen occurs, say: 'Nothing is portended to *me*. To *me*, all portents are lucky if I choose.'\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XXX-1",
+    "value": "{\"id\":\"e-XXX-1\",\"section\":\"XXX\",\"text\":\"Duties are universally measured by relations. Father? Implies care, submission, patience with correction.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XIV-4",
+    "value": "{\"id\":\"e-XIV-4\",\"section\":\"XIV\",\"text\":\"A person's master is whoever controls what they seek or shun.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XLIII-2",
+    "value": "{\"id\":\"e-XLIII-2\",\"section\":\"XLIII\",\"text\":\"Brother acts unjustly? Don't grasp the handle of injustice (unbearable). Grasp the handle 'He is my brother' (bearable).\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XXIV-5",
+    "value": "{\"id\":\"e-XXIV-5\",\"section\":\"XXIV\",\"text\":\"If I can gain wealth while preserving honor and fidelity, show me how. But don't ask me to lose my true good for your gain.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XXI-1",
+    "value": "{\"id\":\"e-XXI-1\",\"section\":\"XXI\",\"text\":\"Keep death, exile, and all seemingly terrible things before your eyes daily, especially death.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-VII-1",
+    "value": "{\"id\":\"e-VII-1\",\"section\":\"VII\",\"text\":\"In life, as on a voyage, your focus must remain on the ship (your duty), even when briefly diverted by pleasures ashore.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XXIV-6",
+    "value": "{\"id\":\"e-XXIV-6\",\"section\":\"XXIV\",\"text\":\"Which is better: money or a faithful, honorable friend? Help me gain this character, don't ask me to lose it.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XXIV-7",
+    "value": "{\"id\":\"e-XXIV-7\",\"section\":\"XXIV\",\"text\":\"It's enough if everyone performs their own proper business. By being a faithful citizen, you are useful to your country.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XXXIII-2",
+    "value": "{\"id\":\"e-XXXIII-2\",\"section\":\"XXXIII\",\"text\":\"Be mostly silent, or speak only what is needed, in few words.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XLII-3",
+    "value": "{\"id\":\"e-XLII-3\",\"section\":\"XLII\",\"text\":\"From this view, bear meekly with revilers, saying each time, 'It seemed so to him.'\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-VI-2",
+    "value": "{\"id\":\"e-VI-2\",\"section\":\"VI\",\"text\":\"If you say, 'I have a handsome horse,' know your pride rests on the horse's merit. What is your own? The use of appearances.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-VI-1",
+    "value": "{\"id\":\"e-VI-1\",\"section\":\"VI\",\"text\":\"Do not be elated at any excellence not your own.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XLIX-1",
+    "value": "{\"id\":\"e-XLIX-1\",\"section\":\"XLIX\",\"text\":\"Understanding texts isn't the goal. The valuable thing is applying the instructions derived from them.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XIX-1",
+    "value": "{\"id\":\"e-XIX-1\",\"section\":\"XIX\",\"text\":\"You can be unconquerable if you enter no contest where victory is not in your power.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XXX-3",
+    "value": "{\"id\":\"e-XXX-3\",\"section\":\"XXX\",\"text\":\"Brother unjust? Preserve your just relation. Focus not on his actions, but on keeping your will aligned with nature.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-I-7",
+    "value": "{\"id\":\"e-I-7\",\"section\":\"I\",\"text\":\"To every troubling appearance, say: 'You are just an appearance, not the reality.'\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-I-1",
+    "value": "{\"id\":\"e-I-1\",\"section\":\"I\",\"text\":\"Some things are within our power, others are not.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XXXIII-3",
+    "value": "{\"id\":\"e-XXXIII-3\",\"section\":\"XXXIII\",\"text\":\"Avoid vulgar topics: gladiators, races, food, drink, especially blaming or praising people comparatively.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XXIV-2",
+    "value": "{\"id\":\"e-XXIV-2\",\"section\":\"XXIV\",\"text\":\"Is getting power or party invitations your business? No. How is lacking them a discredit?\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-I-2",
+    "value": "{\"id\":\"e-I-2\",\"section\":\"I\",\"text\":\"Within our power: opinion, aim, desire, aversion—essentially, our own actions and judgments.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XXIV-1",
+    "value": "{\"id\":\"e-XXIV-1\",\"section\":\"XXIV\",\"text\":\"Don't be distressed thinking, 'I'll live in discredit, be nobody.' Discredit isn't inherently evil.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XXIII-2",
+    "value": "{\"id\":\"e-XXIII-2\",\"section\":\"XXIII\",\"text\":\"Be content in everything with being a philosopher. If you wish to seem so to others, appear so to yourself; that is enough.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XXXIII-6",
+    "value": "{\"id\":\"e-XXXIII-6\",\"section\":\"XXXIII\",\"text\":\"Avoid public entertainments. If present, focus on wishing things to be as they are, and the best competitor to win.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XXXIII-10",
+    "value": "{\"id\":\"e-XXXIII-10\",\"section\":\"XXXIII\",\"text\":\"In company, avoid excessive talk of your own actions or dangers. It's not as pleasing to others as to you.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-II-2",
+    "value": "{\"id\":\"e-II-2\",\"section\":\"II\",\"text\":\"If you only shun undesirable things you control, you will never encounter what you shun.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XLIII-1",
+    "value": "{\"id\":\"e-XLIII-1\",\"section\":\"XLIII\",\"text\":\"Everything has two handles: one bearable, one unbearable.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-L-4",
+    "value": "{\"id\":\"e-L-4\",\"section\":\"L\",\"text\":\"You are no longer a child but an adult. Negligence and endless procrastination ensure you live and die undeveloped.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XVI-2",
+    "value": "{\"id\":\"e-XVI-2\",\"section\":\"XVI\",\"text\":\"In conversation, accommodate the grieving person, even groan with them. But take care not to groan inwardly too.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XXXVII-1",
+    "value": "{\"id\":\"e-XXXVII-1\",\"section\":\"XXXVII\",\"text\":\"Assume a character beyond your strength, and you fail in that role while abandoning one you could have managed.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XXIX-3",
+    "value": "{\"id\":\"e-XXIX-3\",\"section\":\"XXIX\",\"text\":\"If inclination holds after counting the costs, then proceed. Otherwise, you're just playing at roles like a child.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XXXI-3",
+    "value": "{\"id\":\"e-XXXI-3\",\"section\":\"XXXI\",\"text\":\"You won't blame the gods if you withdraw from things not in your power and locate good/evil only within your power.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XIX-3",
+    "value": "{\"id\":\"e-XIX-3\",\"section\":\"XIX\",\"text\":\"If good lies in things within our power, there's no room for envy or rivalry.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XX-1",
+    "value": "{\"id\":\"e-XX-1\",\"section\":\"XX\",\"text\":\"It is not the abuser or striker who insults, but our judgment that these things are insulting.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XLII-1",
+    "value": "{\"id\":\"e-XLII-1\",\"section\":\"XLII\",\"text\":\"If someone harms or speaks ill of you, remember they act from their own impression of what is right.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XI-1",
+    "value": "{\"id\":\"e-XI-1\",\"section\":\"XI\",\"text\":\"Never say 'I have lost it,' but 'I have returned it.' Child, wife, estate—all are restored to the giver.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-X-1",
+    "value": "{\"id\":\"e-X-1\",\"section\":\"X\",\"text\":\"For every challenge, turn inward and ask what power you have to deal with it.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XXX-5",
+    "value": "{\"id\":\"e-XXX-5\",\"section\":\"XXX\",\"text\":\"Contemplate relations (neighbor, citizen, commander) to deduce your corresponding duties.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XXVI-2",
+    "value": "{\"id\":\"e-XXVI-2\",\"section\":\"XXVI\",\"text\":\"Another's child or wife dies: 'Such is mortality.' Our own dies: 'Alas! Wretched me!' Remember how we react to others' loss.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-X-2",
+    "value": "{\"id\":\"e-X-2\",\"section\":\"X\",\"text\":\"Face beauty? Use self-control. Face pain? Use fortitude. Face insults? Use patience.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XXV-3",
+    "value": "{\"id\":\"e-XXV-3\",\"section\":\"XXV\",\"text\":\"Unwilling to pay the price (praise, attendance) for externals? Then don't expect them for free. That's unreasonable.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XXV-1",
+    "value": "{\"id\":\"e-XXV-1\",\"section\":\"XXV\",\"text\":\"Preferred over you? If the preference is for something good, rejoice. If evil, don't grieve you lack it.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XXXIII-1",
+    "value": "{\"id\":\"e-XXXIII-1\",\"section\":\"XXXIII\",\"text\":\"Prescribe a character and demeanor for yourself to maintain both alone and in company.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-II-5",
+    "value": "{\"id\":\"e-II-5\",\"section\":\"II\",\"text\":\"For now, restrain desire completely. Desiring what's not in our power guarantees disappointment.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-III-1",
+    "value": "{\"id\":\"e-III-1\",\"section\":\"III\",\"text\":\"Regarding beloved objects, remind yourself of their nature. If you love a cup, remember it's just a cup; its breaking becomes bearable.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XLVI-3",
+    "value": "{\"id\":\"e-XLVI-3\",\"section\":\"XLVI\",\"text\":\"If principles are discussed among the ignorant, be silent. Danger lies in vomiting up undigested ideas.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-V-2",
+    "value": "{\"id\":\"e-V-2\",\"section\":\"V\",\"text\":\"Death itself is not terrible; the terror lies in our judgment that death is terrible.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-IV-2",
+    "value": "{\"id\":\"e-IV-2\",\"section\":\"IV\",\"text\":\"If obstacles arise, remember your goal wasn't just the action, but also keeping your will aligned with nature.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XLI-2",
+    "value": "{\"id\":\"e-XLI-2\",\"section\":\"XLI\",\"text\":\"Apply your main strength to your reason.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XLIX-2",
+    "value": "{\"id\":\"e-XLIX-2\",\"section\":\"XLIX\",\"text\":\"Admire only interpretation? You become a grammarian, not a philosopher.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-IV-1",
+    "value": "{\"id\":\"e-IV-1\",\"section\":\"IV\",\"text\":\"Before any action, remind yourself of its nature. This allows you to maintain inner harmony with nature, even amidst obstacles.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XLVI-2",
+    "value": "{\"id\":\"e-XLVI-2\",\"section\":\"XLVI\",\"text\":\"At dinner, don't preach how to eat; eat as you ought.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XLI-1",
+    "value": "{\"id\":\"e-XLI-1\",\"section\":\"XLI\",\"text\":\"It shows lack of intellect to spend much time on bodily things (exercise, eating, etc.). Do these incidentally.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-I-3",
+    "value": "{\"id\":\"e-I-3\",\"section\":\"I\",\"text\":\"Beyond our power: body, property, reputation, office—things not truly our own affairs.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-II-1",
+    "value": "{\"id\":\"e-II-1\",\"section\":\"II\",\"text\":\"Desire seeks attainment; aversion seeks avoidance. Failing in desire brings disappointment; incurring aversion brings misery.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XLVIII-3",
+    "value": "{\"id\":\"e-XLVIII-3\",\"section\":\"XLVIII\",\"text\":\"If hindered, accuses self. If praised, smiles inwardly. If censured, makes no defense.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XXV-2",
+    "value": "{\"id\":\"e-XXV-2\",\"section\":\"XXV\",\"text\":\"You cannot rival others in externals without using the same means (flattery, attendance).\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XVII-1",
+    "value": "{\"id\":\"e-XVII-1\",\"section\":\"XVII\",\"text\":\"Remember you are an actor in a drama, chosen by the Author. Play well the part assigned, be it long or short.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XXII-2",
+    "value": "{\"id\":\"e-XXII-2\",\"section\":\"XXII\",\"text\":\"If you persist, those who first ridiculed you will later admire you. If conquered by them, you earn double ridicule.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XXII-1",
+    "value": "{\"id\":\"e-XXII-1\",\"section\":\"XXII\",\"text\":\"If you desire philosophy, expect ridicule. Don't adopt a superior look, but hold steadily to what seems best.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XXXIII-8",
+    "value": "{\"id\":\"e-XXXIII-8\",\"section\":\"XXXIII\",\"text\":\"If someone speaks ill of you, don't excuse yourself. Answer: 'He didn't know my other faults, or he wouldn't have mentioned only these.'\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XXXVI-2",
+    "value": "{\"id\":\"e-XXXVI-2\",\"section\":\"XXXVI\",\"text\":\"When eating with others, consider not just bodily value, but also the value of courtesy to the host.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-LII-2",
+    "value": "{\"id\":\"e-LII-2\",\"section\":\"LII\",\"text\":\"Whoever yields properly to Fate is deemed Wise among men, and knows the laws of Heaven.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XXIV-8",
+    "value": "{\"id\":\"e-XXIV-8\",\"section\":\"XXIV\",\"text\":\"Hold whatever place you can while preserving fidelity and honor. Lose these to seem 'useful,' and you become useless.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-L-7",
+    "value": "{\"id\":\"e-L-7\",\"section\":\"L\",\"text\":\"By one failure or victory, honor is lost or won.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-II-3",
+    "value": "{\"id\":\"e-II-3\",\"section\":\"II\",\"text\":\"Shun sickness, death, or poverty, and you risk misery.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XXXI-1",
+    "value": "{\"id\":\"e-XXXI-1\",\"section\":\"XXXI\",\"text\":\"Piety toward the gods means holding right opinions: that they exist and govern the universe justly.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XI-3",
+    "value": "{\"id\":\"e-XI-3\",\"section\":\"XI\",\"text\":\"While permitted to possess things, hold them as not your own, like a traveler at an inn.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XIX-2",
+    "value": "{\"id\":\"e-XIX-2\",\"section\":\"XIX\",\"text\":\"See someone honored or powerful? Don't be misled by appearances into calling them happy.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XII-1",
+    "value": "{\"id\":\"e-XII-1\",\"section\":\"XII\",\"text\":\"To improve, discard thoughts like 'If I neglect affairs, I'll lack support.' Better to die free of grief than live affluent but disturbed.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XXXIII-4",
+    "value": "{\"id\":\"e-XXXIII-4\",\"section\":\"XXXIII\",\"text\":\"Let your laughter not be loud, frequent, or unrestrained.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XXXV-2",
+    "value": "{\"id\":\"e-XXXV-2\",\"section\":\"XXXV\",\"text\":\"If you are not acting rightly, shun the action itself. If you are, why fear wrongful censure?\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XLIX-3",
+    "value": "{\"id\":\"e-XLIX-3\",\"section\":\"XLIX\",\"text\":\"Strive to exhibit actions harmonious with the philosophical discourse you study.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-V-1",
+    "value": "{\"id\":\"e-V-1\",\"section\":\"V\",\"text\":\"Men are disturbed not by events, but by the views they take of them.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XV-2",
+    "value": "{\"id\":\"e-XV-2\",\"section\":\"XV\",\"text\":\"Apply this restraint regarding children, wife, office, riches. You may become worthy to feast with the gods.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XXVI-1",
+    "value": "{\"id\":\"e-XXVI-1\",\"section\":\"XXVI\",\"text\":\"We readily accept accidents like a broken cup happening to a neighbor. Apply the same view when your own cup breaks.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-LII-1",
+    "value": "{\"id\":\"e-LII-1\",\"section\":\"LII\",\"text\":\"Conduct me, Zeus, and thou, O Destiny, Wherever your decrees have fixed my lot. I follow cheerfully.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-IX-2",
+    "value": "{\"id\":\"e-IX-2\",\"section\":\"IX\",\"text\":\"Lameness impedes the leg, not the will. Apply this thought to everything that happens.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XLV-2",
+    "value": "{\"id\":\"e-XLV-2\",\"section\":\"XLV\",\"text\":\"Unless you understand their motives, how do you know if they act badly? Don't assent to appearances you don't fully comprehend.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XXIX-5",
+    "value": "{\"id\":\"e-XXIX-5\",\"section\":\"XXIX\",\"text\":\"To be a philosopher: Expect to watch, labor, overcome appetites, quit acquaintances, be despised, be laughed at, fare worse in externals.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XXV-4",
+    "value": "{\"id\":\"e-XXV-4\",\"section\":\"XXV\",\"text\":\"In place of the supper you weren't invited to, you retain something better: not praising one you dislike.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XV-1",
+    "value": "{\"id\":\"e-XV-1\",\"section\":\"XV\",\"text\":\"Behave in life as at a banquet. Take a polite share of what is offered. Do not stop it if it passes. Await its arrival.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XXXIV-1",
+    "value": "{\"id\":\"e-XXXIV-1\",\"section\":\"XXXIV\",\"text\":\"Dazzled by pleasure's appearance? Pause. Consider the enjoyment time vs. the later regret and self-reproach.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XXXIX-1",
+    "value": "{\"id\":\"e-XXXIX-1\",\"section\":\"XXXIX\",\"text\":\"The body is the measure of its possessions, as the foot is for the shoe. Stay within this natural measure.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XXIX-1",
+    "value": "{\"id\":\"e-XXIX-1\",\"section\":\"XXIX\",\"text\":\"Before undertaking anything, consider what comes before and after. Otherwise, you'll start eagerly and desist shamefully.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-II-6",
+    "value": "{\"id\":\"e-II-6\",\"section\":\"II\",\"text\":\"When pursuing or avoiding is necessary, do so with discretion, gentleness, and moderation.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XV-3",
+    "value": "{\"id\":\"e-XV-3\",\"section\":\"XV\",\"text\":\"If you can even decline things offered, you become worthy not just to feast with the gods, but to rule with them.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-L-8",
+    "value": "{\"id\":\"e-L-8\",\"section\":\"L\",\"text\":\"Though not yet Socrates, you ought to live as one seeking to be Socrates.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XLV-1",
+    "value": "{\"id\":\"e-XLV-1\",\"section\":\"XLV\",\"text\":\"Someone bathes hastily? Say 'hastily,' not 'badly.' Drinks much? Say 'much,' not 'badly.'\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-I-6",
+    "value": "{\"id\":\"e-I-6\",\"section\":\"I\",\"text\":\"Accept only what is yours as yours. Then none can compel or restrict you; you'll find no fault, suffer no harm.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-IX-1",
+    "value": "{\"id\":\"e-IX-1\",\"section\":\"IX\",\"text\":\"Sickness impedes the body, not the will, unless the will consents.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XIII-1",
+    "value": "{\"id\":\"e-XIII-1\",\"section\":\"XIII\",\"text\":\"To improve, be content appearing foolish or naive about externals.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XIV-2",
+    "value": "{\"id\":\"e-XIV-2\",\"section\":\"XIV\",\"text\":\"Wishing your servant faultless is foolish; it's wishing vice wasn't vice.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XXXVIII-1",
+    "value": "{\"id\":\"e-XXXVIII-1\",\"section\":\"XXXVIII\",\"text\":\"As you watch your step to avoid injury, so guard your mind's ruling faculty from harm.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-XIV-5",
+    "value": "{\"id\":\"e-XIV-5\",\"section\":\"XIV\",\"text\":\"To be free, wish for nothing and decline nothing that depends on others. Otherwise, you are necessarily a slave.\",\"author\":\"Epictetus\"}"
+  },
+  {
+    "key": "e-I-5",
+    "value": "{\"id\":\"e-I-5\",\"section\":\"I\",\"text\":\"Mistake dependent things for free, or others' affairs for yours, and you'll face hindrance and disturbance.\",\"author\":\"Epictetus\"}"
+  }
+]
