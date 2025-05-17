@@ -30,6 +30,7 @@ app.get("/quote", async (c) => {
       headers: {
         "Cache-Control": "public, max-age=300, stale-while-revalidate=86400",
         "Content-Type": "application/json; charset=utf-8",
+        "Access-Control-Allow-Origin": "*",
       },
     }
   );
