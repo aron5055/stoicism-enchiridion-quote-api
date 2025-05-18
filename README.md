@@ -1,6 +1,6 @@
 # Daily Stoic Quote API
 
-A simple, zero-dependency Cloudflare Workers API that returns one “Daily Stoic” quote from Epictetus’s *The Enchiridion* each day, based on the date. The quote is chosen deterministically (pseudo-random) so it stays the same throughout the day.
+A simple, zero-dependency Cloudflare Workers API that returns one "Daily Stoic" quote from Epictetus's *The Enchiridion* each day, based on the date. The quote is chosen deterministically (pseudo-random) so it stays the same throughout the day.
 
 ## 🚀 Quick Start
 
@@ -22,7 +22,13 @@ curl https://api.aronyang.com/quote
 
 ## Usage
 
+### Daily Quote
 - Endpoint: GET /quote
+- Returns a daily quote that remains consistent throughout the day
+
+### Random Quote
+- Endpoint: GET /quote/random
+- Returns a randomly selected quote each time it's called
 
 - Query Parameters:
   - none (future: ?lang=zh for Chinese)
@@ -30,6 +36,7 @@ curl https://api.aronyang.com/quote
 - Headers:
   - Content-Type: application/json; charset=utf-8
   - Cache-Control: public, max-age=300, stale-while-revalidate=86400
+  - Access-Control-Allow-Origin: *
 
 ## Data License & Copyright
 
