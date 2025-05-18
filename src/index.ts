@@ -36,6 +36,28 @@ app.get("/quote", async (c) => {
   );
 });
 
+app.get("/quote/random", async (c) => {
+  const allKeys = await c.env.QUOTES.list();
+  const idx = Math.floor(Math.random() * allKeys.keys.length);
+  const key = allKeys.keys[idx].name;
+  const entry = await c.env.QUOTES.get(key);
+  if (!entry) {
+    return c.json({ error: "Not Found" }, 404);
+  }
+
+  const quote = JSON.parse(entry);
+  return c.json(
+    { date: new Date().toLocaleDateString("en-CA"), ...quote },
+    {
+      headers: {
+        "Cache-Control": "public, max-age=300, stale-while-revalidate=86400",
+        "Content-Type": "application/json; charset=utf-8",
+        "Access-Control-Allow-Origin": "*",
+      },
+    }
+  );
+});
+
 export default app;
 
 const hash = (str: string) => {
