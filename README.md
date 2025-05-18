@@ -35,7 +35,6 @@ curl https://api.aronyang.com/quote
 
 - Headers:
   - Content-Type: application/json; charset=utf-8
-  - Cache-Control: public, max-age=300, stale-while-revalidate=86400
   - Access-Control-Allow-Origin: *
 
 ## Data License & Copyright
